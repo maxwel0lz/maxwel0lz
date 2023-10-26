@@ -1,6 +1,6 @@
 ### Maxwel Alves 👋🏽
 
-Apaixonado por tecnologia e curioso de nacença. Sou graduando em **Sistemas de Informação**!
+Apaixonado por tecnologia e curioso de nascença. Sou graduando em **Sistemas de Informação**!
 - 🖥 Tecnologias que tenho conhecimento:
 <div style="didplay: inline">
   &nbsp; &nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;  &nbsp;
