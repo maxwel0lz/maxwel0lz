@@ -3,10 +3,11 @@
 Apaixonado por tecnologia e curioso de nascença. Sou graduando em **Sistemas de Informação**!
 - 🖥 Tecnologias que tenho conhecimento:
 <div style="didplay: inline">
-  &nbsp; &nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;  &nbsp;
-  &nbsp;&nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> &nbsp; 
-  &nbsp;&nbsp;<img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp; 
-  &nbsp;&nbsp;<img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width="45" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width="45" height="45" src=https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg /> &nbsp; 
+  &nbsp;&nbsp;<img width="45" height="45" src=https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg />&nbsp; 
+  &nbsp;&nbsp;<img width="45" height="45" src=https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width="45" height="45" src=https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg />&nbsp;&nbsp;
 </div>
 
 ##
